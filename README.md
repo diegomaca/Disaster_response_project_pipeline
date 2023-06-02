@@ -27,6 +27,10 @@ Contributions to this project are highly appreciated. If you have any suggestion
 # License
 This project is licensed under the MIT License. You are free to modify.
 
+# Results
+
+Check this link to view the process: https://github.com/diegomaca/Disaster_response_project_pipeline.git
+
 # Acknowledgments
 
 1. The open-source community and the developers of the libraries used in this project for their valuable contributions.
